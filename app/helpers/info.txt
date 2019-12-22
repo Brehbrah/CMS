@@ -1,0 +1,3 @@
+This is going to our small folder which will include redirects helpers, so we don't need to use PHP locations. 
+We will just simply have a function that is called redirects. It will also have session helpers that allows flash messages like a pop up window
+that say login or something

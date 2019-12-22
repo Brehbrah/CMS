@@ -1,0 +1,3 @@
+This is going to be our public site. Mainly our index php files.  
+This is going to create some rules inside the from the .htaccess file, so everything routes to that file.
+This is going to have static access files like css, javascript etc. 

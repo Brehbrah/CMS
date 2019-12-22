@@ -1,0 +1,1 @@
+This is going to be our entirely application, MVC structure, our libraries, helpers etc.
