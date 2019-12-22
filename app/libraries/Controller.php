@@ -20,7 +20,8 @@
         }
 
         // Load view - Here we can add something like /add/post/1
-        public function view($view, $data = []) { // The array will be passed in dynamically hardcoded, or from the database whatever.
+        // The array will be passed in dynamically hardcoded, or from the database whatever.
+        public function view($view, $data = []) {  // Array will be optional if we want to pass the data on the view
             // Check for view file
             if(file_exists('../app/views/' . $view . '.php')) {
                 require_once '../app/views/' . $view . '.php';
